@@ -13,7 +13,7 @@
     <img width="50%" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&row=1&title=MultiLanguage,Experience,LongTimeUser&margin-w=15&theme=gruvbox" alt="Multiple Trophies" />
   </div>
     </div>
-    <img width="60%" style="margin-bottom: 5%;" src="https://github-readme-stats-git-master-mrfahadrajputs-projects.vercel.app/api?username=Hani24&icon_color=79ff97&text_color=fff&bg_color=151515&count_private=true&show_icons=true&show=reviews,prs_merged_percentage&hide=stars,prs,issues&custom_title=My%20Git-Tracked%20Contributions&include_all_commits=true&rank_icon=github" alt="Fahad's GitHub stats" />
+    <img width="60%" style="margin-bottom: 5%;" src="https://github-readme-stats-psi-ashen-69.vercel.app/api?username=Hani24&icon_color=79ff97&text_color=fff&bg_color=151515&count_private=true&show_icons=true&show=reviews,prs_merged_percentage&hide=stars,prs,issues&custom_title=My%20Git-Tracked%20Contributions&include_all_commits=true&rank_icon=github" alt="Fahad's GitHub stats" />
     <img width="60%" src="https://github-readme-stats-git-master-mrfahadrajputs-projects.vercel.app/api/top-langs/?username=Hani24&theme=dark&title_color=2f80ed&bg_color=151515&layout=compact&text_color=fff&icon_color=79ff97&count_private=true&langs_count=14&custom_title=My%20Git-Tracked%20Code%20Armory" alt="Top Languages" />
   </div>
 </div>
