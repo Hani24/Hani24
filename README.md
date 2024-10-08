@@ -1,7 +1,7 @@
 # 💻 Welcome to My GitHub!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hani24)
-[![GitHub followers](https://img.shields.io/github/followers//Hani24?label=Follow&style=social)](https://github.com/Hani24/?tab=follow)
+[![GitHub followers](https://img.shields.io/github/followers/Hani24?label=Follow&style=social)](https://github.com/Hani24/?tab=follow)
 
 <div align="center" style="width: 80%; margin: auto;">
   <div style="display: flex; flex-direction: column; align-items: center;">
