@@ -22,7 +22,8 @@
 ## 🛠️ Technologies & Tools
 
 Here are some of the technologies and tools I work with:
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=Flutter)
+![Flutter](https://img.shields.io/badge/-JavaScript-000?&logo=Flutter)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
