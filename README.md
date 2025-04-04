@@ -22,7 +22,7 @@
 ## 🛠️ Technologies & Tools
 
 Here are some of the technologies and tools I work with:
-
+![Flutter](https://static-00.iconduck.com/assets.00/flutter-icon-512x512-k9y8x41t.png)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
